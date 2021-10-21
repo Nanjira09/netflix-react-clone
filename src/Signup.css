@@ -1,0 +1,47 @@
+.signup{
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding:40px;
+    border-radius: 8px;
+}
+
+.in-email{
+    width:80%;
+    margin:10px 0;
+    border-radius:8px;
+    border: none;
+    outline: none;
+}
+
+.in-password{
+    width:80%;
+    margin:10px 0;
+    border-radius:8px;
+    border: none;
+    outline: none;
+}
+
+.signin-btn{
+    width:100%;
+    margin:10px 0;
+    padding: 10px 20px;
+    border-radius:8px;
+    color:white;
+    background-color:#e50914;
+    border:none;
+    cursor: pointer;
+}
+
+.p-span{
+    font-size:15px;
+    color: gray;
+    margin-right: 5px;
+}
+
+.btn-span:hover{
+    text-decoration: underline;
+}

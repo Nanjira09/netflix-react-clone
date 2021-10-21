@@ -1,0 +1,38 @@
+.edit-screen{
+    min-height:100vh;
+    background-color:#111;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.center{
+    padding:20px;
+}
+.center h3{
+    color:white;
+}
+
+.inner-div{
+    display:flex;
+    margin-top: 10px;
+
+}
+
+.avatar-img{
+    width:50px;
+    height:50px;
+    margin-right: 10px;;
+}
+.last-section p{
+    color:white;
+    margin-bottom: 10px;
+}
+.last-section button{
+    width:100%;
+    background-color:red;
+    color:white;
+    padding:5px;
+    outline:none;
+    border:none;
+    border-radius: 5px;
+}
